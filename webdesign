@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Webpage Design</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <div class="main">
+        <div class="navbar">
+            <div class="icon">
+                <h2 class="logo">PraRoz</h2>
+            </div>
+
+            <div class="menu">
+                <ul>
+                    <li><a href="https://tse4.mm.bing.net/th?id=OIP.OATRr-tj9N6rEcqCEAoRBAHaGk&pid=Api&P=0">HOME</a></li>
+                    <li><a href="https://tse1.mm.bing.net/th?id=OIP.LUPNMzzyEwuqHKupGThOUwHaEK&pid=Api&rs=1&c=1&qlt=95&w=161&h=90">Wrestling</a></li>
+                    <li><a href="https://tse4.mm.bing.net/th?id=OIP.l-Nq2n08xZao6-bp10GI1AHaKe&pid=Api&P=0">Jiu Jitsu</a></li>
+                  
+                </ul>
+            </div>
+
+            <div class="search">
+                <input class="srch" type="search" name="" placeholder="Type To text">
+                <a href="#"> <button class="btn">Search</button></a>
+            </div>
+
+        </div> 
+        <div class="content">
+            <h1>MMA Topic <br> This website is based on the art of fighting <span> How the sport has progressed </span> Why the sport is so great <br></h1>
+            <p class="par"> <br> </p>
+
+                <button class="cn"><a href="#">JOIN US</a></button>
+
+                <div class="form">
+                    <h2>Login Here</h2>
+                    <input type="email" name="email" placeholder="Enter Email Here">
+                    <input type="password" name="" placeholder="Enter Password Here">
+                    <button class="btnn"><a href="#">Login</a></button>
+
+                    <p class="link">Don't have an account<br>
+                    <a href="#">Sign up </a> here</a></p>
+                    <p class="liw">Log in with</p>
+
+                    <div class="icons">
+                        <a href="#"><ion-icon name="logo-facebook"></ion-icon></a>
+                        <a href="#"><ion-icon name="logo-instagram"></ion-icon></a>
+                        <a href="#"><ion-icon name="logo-twitter"></ion-icon></a>
+                        <a href="#"><ion-icon name="logo-google"></ion-icon></a>
+                        <a href="#"><ion-icon name="logo-skype"></ion-icon></a>
+                    </div>
+
+                </div>
+                    </div>
+                </div>
+        </div>
+    </div>
+    <script src=""></script>
+</body>
+</html>
